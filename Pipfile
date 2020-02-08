@@ -1,5 +1,6 @@
 [scripts]
 tests = "pytest tests/unit_tests/test.py -ra"
+aws_tests = "pytest --cov-report term-missing --cov=src"
 
 [[source]]
 name = "pypi"
