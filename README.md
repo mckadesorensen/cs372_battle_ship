@@ -1,4 +1,4 @@
-# cs372_battle_ship
+# cs372_battle_ship ![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoibHVqQlI4RjVkUTJ1Snc1T2N6UHhHZTNKbWpWMWhkdVFxVGlFQTF2NGZtRENJQ1B1UEp4a0FZc3NOQkJackZGUHR0UG9iZzdGRTFoSEtPY1BCS2lNaEk4PSIsIml2UGFyYW1ldGVyU3BlYyI6IjhPcXJlUWVGY3JYQXpyaE0iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
 
 ## Table of Content 
 
