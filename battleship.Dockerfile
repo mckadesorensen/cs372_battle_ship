@@ -1,6 +1,5 @@
 FROM ubuntu:devel
 
-
 LABEL maintainer="dmsorensen@alaska.edu"
 USER root
 # Update the image to the latest packages
