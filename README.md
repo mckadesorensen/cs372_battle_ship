@@ -5,7 +5,8 @@
 - [Docker](#Docker)
     - [Building Docker](#Building-Docker)
     - [Running Docker](#Running-Docker)
-    
+- [Unit Tests](#Unit-test)
+    - [Running Unit Tests](#Running-Unit-Tests)
  
  
 ## Docker
@@ -32,6 +33,18 @@ Copy the most recent `IMAGE ID` and run the following command:
 ```terminal
 docker run -it 3bc811affb74
 ```
+
+## Unit Tests
+This project uses [pytest](https://docs.pytest.org/en/latest/).
+
+### Running Unit Tests
+After running the [Docker](#Running-Docker) run command, run this command in the `Docker container`:
+```Terminal
+pipenv run tests
+``` 
+This command is created in the `[scripts]` section in Pipfile.
+
+
 
 
 
