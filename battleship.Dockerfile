@@ -7,10 +7,7 @@ USER root
 RUN apt-get update && apt-get upgrade -y
 RUN apt-get install -y --no-install-recommends python3
 RUN apt-get install -y --no-install-recommends python3-pip
-#RUN apt-get install -y --no-install-recommends python
-#RUN apt-get install -y --no-install-recommends python-pip
-#
-#RUN pip install pipenv
+
 # Testing to make sure files are moved to image
 WORKDIR /cs372_battle_ship
 COPY . /cs372_battle_ship
