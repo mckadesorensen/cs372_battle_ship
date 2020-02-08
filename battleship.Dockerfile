@@ -6,6 +6,6 @@ LABEL maintainer="dmsorensen@alaska.edu"
 RUN apt-get update && apt-get upgrade -y
 
 # Testing to make sure files are moved to image
-CMD mkdir Battleship
-ADD .* /Battleship
-WORKDIR /Battleship
+
+WORKDIR /cs372_battle_ship
+COPY . /cs372_battle_ship
