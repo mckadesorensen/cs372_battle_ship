@@ -28,7 +28,7 @@ REPOSITORY          TAG                 IMAGE ID            CREATED             
 <none>              <none>              3bc811affb74        1 minute ago       103MB
 ubuntu              latest              ccc6e87d482b        3 weeks ago         64.2MB
 ```
-Copy the most recent _IMAGE ID_ and run the following command:
+Copy the most recent `IMAGE ID` and run the following command:
 ```terminal
 docker run -it 3bc811affb74
 ```
