@@ -1,4 +1,4 @@
-# cs372_battle_ship ![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoibHVqQlI4RjVkUTJ1Snc1T2N6UHhHZTNKbWpWMWhkdVFxVGlFQTF2NGZtRENJQ1B1UEp4a0FZc3NOQkJackZGUHR0UG9iZzdGRTFoSEtPY1BCS2lNaEk4PSIsIml2UGFyYW1ldGVyU3BlYyI6IjhPcXJlUWVGY3JYQXpyaE0iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+# cs372_battle_ship ![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiQ0poNTFxTE5Hd21iaGQvaWF5bnpjWjB6RklOK0VnK1p0UkN4R1hUWGF2OUIrb3dRUUJoRDV6NXJXUVhad2t4ZFFxYnBqWmdhQ0M3RzZTV1JZM3RxWXNRPSIsIml2UGFyYW1ldGVyU3BlYyI6ImY2bE1oR2l1ZnJUNW1TMysiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
 
 ## Table of Content 
 
