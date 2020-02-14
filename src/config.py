@@ -1,0 +1,1 @@
+width, height = 8, 8
