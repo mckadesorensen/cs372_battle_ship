@@ -11,9 +11,10 @@ RUN apt-get install -y --no-install-recommends python3-pip
 WORKDIR /cs372_battle_ship
 COPY . /cs372_battle_ship
 
+RUN pip3 install setuptools
 RUN pip3 install pipenv
 RUN pip3 install -U pytest
 RUN pipenv install --dev
-# TODO: Figure out why this doesn't work from the Docker file
+
 RUN pip3 install -e .
 RUN apt-get install nano

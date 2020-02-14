@@ -10,6 +10,3 @@ verify_ssl = true
 [dev-packages]
 pytest = "*"
 setuptools = "*"
-
-[requires]
-python_version = "3.7"
