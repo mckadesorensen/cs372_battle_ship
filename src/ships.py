@@ -1,10 +1,10 @@
-from .config import ships
+from .config import SHIPS
 
 
 class Ships:
 
     def __init__(self):
-        self.ships = ships
+        self.ships = SHIPS
         self.remaining_ships = self.total_ships()
 
     def total_ships(self):

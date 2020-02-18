@@ -1,11 +1,11 @@
-from .config import width, height, pre_built_board
+from .config import WIDTH, HEIGHT, pre_built_board
 from .ships import Ships
 
 class Board:
 
     def __init__(self):
-        self.width = width
-        self.height = height
+        self.width = WIDTH
+        self.height = HEIGHT
         self.initial_board = [[0 for i in range(self.width)] for j in range(self.height)]
         self.ships = Ships()
 

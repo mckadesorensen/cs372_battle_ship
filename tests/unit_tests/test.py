@@ -1,5 +1,5 @@
 from src.board import Board
-from src.config import width, height
+from src.config import WIDTH, HEIGHT
 from src.ships import Ships
 
 import pytest
@@ -8,8 +8,8 @@ import pytest
 # Board tests below
 def test_board_size():
     board = Board()
-    assert board.width == width
-    assert board.height == height
+    assert board.width == WIDTH
+    assert board.height == HEIGHT
 
 def test_setup_board():
     _board = Board()

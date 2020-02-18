@@ -1,5 +1,5 @@
-width, height = 8, 8
-ships = {"ship_size_four":  {"total": 1, "length": 4, "start": (0, 0), "end": (0, 3)},
+WIDTH, HEIGHT = 8, 8
+SHIPS = {"ship_size_four":  {"total": 1, "length": 4, "start": (0, 0), "end": (0, 3)},
          "ship_size_three": {"total": 1, "length": 3, "start": (2, 5), "end": (4, 5)},
          "ship_size_two":   {"total": 1, "length": 2, "start": (6, 2), "end": (6, 3)},
          "ship_size_one":   {"total": 1, "length": 1, "start": (3, 1), "end": (3, 1)},
