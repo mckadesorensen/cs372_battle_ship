@@ -1,3 +1,30 @@
 2-3-2020 
 Chenyi and McKade
 Spent one hour in class discussed about the users story and set up version control.
+
+2-7-2020
+McKade
+Spent about one hour setting up Jira
+
+2-8-2020
+Chenyi And McKade
+Spent about 5 hours setting up Docker, Pytest, CodeBuild, and required code reviews on Github. 
+BAT-19
+BAT-3
+BAT-23
+BAT-22
+
+2-13-2020
+Chenyi and McKade
+Spent about 2 hours
+BAT-13
+BAT-16
+
+2-16-2020
+Chenyi and McKade
+Spent about 3.5 hours 
+BAT-13
+BAT-16
+
+
+
