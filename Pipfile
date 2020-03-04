@@ -1,6 +1,5 @@
 [scripts]
 tests = "pytest tests/unit_tests/test.py -ra"
-aws_tests = "pytest --cov-report term-missing --cov=src"
 
 [[source]]
 name = "pypi"
@@ -10,6 +9,3 @@ verify_ssl = true
 [dev-packages]
 pytest = "*"
 setuptools = "*"
-
-[requires]
-python_version = "3.7"
